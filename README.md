@@ -81,3 +81,6 @@ Traffic monitoring and law enforcement
 
 Security and surveillance systems
 ![Screenshot 2025-06-20 224740](https://github.com/user-attachments/assets/86d604db-2225-4130-8980-3c290634d049)
+
+
+Contributions, bug reports, and feedback are welcome!

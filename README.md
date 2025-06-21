@@ -11,7 +11,6 @@ A real-time Automatic Number Plate Recognition (ANPR) system using [YOLOv8](http
 - **YOLOv8** for robust, fast license plate detection (GPU-supported)
 - **EasyOCR** for accurate plate number reading
 - **Multithreaded** CPU pipeline for efficient, parallel video, detection, and OCR handling
-- **Custom plate format support** for region-specific license plates (e.g., Kuwaiti plates)
 - Clean, modular Python code
 
 ## Example Workflow

@@ -2,6 +2,8 @@
 
 A real-time Automatic Number Plate Recognition (ANPR) system using [YOLOv8](https://github.com/ultralytics/ultralytics) for license plate detection and [EasyOCR](https://github.com/JaidedAI/EasyOCR) for character recognition. The system features a multithreaded CPU pipeline for efficient video processing, supports GPU acceleration for inference, and includes custom logic for multiple plate types (such as Kuwaiti plates).
 
+
+
 ## Features
 
 - **Real-time** processing from video streams or files
@@ -78,3 +80,4 @@ Parking and access control automation
 Traffic monitoring and law enforcement
 
 Security and surveillance systems
+![Screenshot 2025-06-20 224740](https://github.com/user-attachments/assets/86d604db-2225-4130-8980-3c290634d049)

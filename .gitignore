@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pt
+*.mp4
+*.PNG
+saved_images/
+.venv/
+.idea/
+videos/
